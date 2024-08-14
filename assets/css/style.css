@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100..900;1,100..900&display=swap');
+
+body {
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-color: #F890EA;
+    font-weight: 350;
+    margin: auto;
+
+}
+
+img{
+    max-width: 100%;
+}
+
+.ulnav{
+    display: flex;
+    gap: 20px;
+    color: #FFFF;
+    list-style-type: none;
+}
+
+.linav:hover{
+    background-color: #F890EA;
+    color: #000000;
+    cursor: pointer;
+}
+   
+.linav:active{
+       background-color:  #FF3CE5;
+       color: #000000;
+}
+
+header{
+    background-image: url(../img/bg-hero.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+nav{
+    background-color: #FFFF;
+    font-size: 28px;
+    color: #000000;
+}
+
+.contenedor{
+    width: 80%;
+    max-width: 100%;
+}
+
+.main-header{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}

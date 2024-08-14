@@ -1,0 +1,140 @@
+body{
+    font-family:'Courier New', Courier, monospace;
+    background-image: url(../img/background.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: center;
+    text-align: center;
+    background-attachment: fixed;
+    width: 80%;
+    margin: auto;
+}
+
+.header{
+    padding: 60px;
+    padding-top: 10px;
+    text-align: center;
+    font-size: 30px; 
+    color: rgb(0, 0, 0);
+    height: 60px;
+    background-color: rgb(72, 152, 243);
+}
+
+h1{
+    font-size: 60px;
+    margin: 0px;
+    margin-top: 0%;
+    margin-bottom: 0%;
+}
+
+h5{
+    font-size: 22px;
+    text-align: center;
+    margin: 0px;
+    margin-top: 0%;
+    margin-bottom: 0%;
+}
+
+div {
+    margin: 10px;
+    padding: 50px;
+    text-align: justify;
+}
+
+h2{
+    font-size: 50px;
+    margin: 0px;
+    padding: 0px;
+}
+
+h3{
+    font-size: 30px;
+    text-align: right;
+}
+
+h4{
+    font-size: 18px;
+}
+
+p{
+    font-size: 25px;
+    text-align: right;
+}
+
+img{
+    margin: 5px;
+    padding: 10px;
+}
+
+a{
+    color: rgb(255, 255, 255);
+}
+
+.box1{
+    /********LUFFY********/
+    background-color: rgb(177, 12, 45);
+    color: rgba(206, 193, 14, 0.904);
+}
+
+.box2{
+    /********ZORO********/
+    background-color: rgb(50, 197, 45);
+    color: rgb(3, 70, 3) ;
+}
+
+.box3{
+    /********USOPP********/
+    background-color: rgb(43, 24, 24);
+    color: rgb(184, 148, 50);
+}
+
+.box4{
+    /********SANJI********/
+    background-color: rgb(25, 135, 185);
+    color: rgb(207, 194, 9);
+}
+
+.box5{
+    /********NAMI********/
+    background-color: rgb(255, 136, 0);
+    color: rgb(16, 86, 107);
+}
+
+.box6{ 
+    /********CHOPPER********/
+    background-color: rgb(102, 166, 209);
+    color: rgb(184, 92, 92);
+}
+
+.box7{
+    background-color: rgb(17, 1, 1);
+    color: rgb(199, 169, 85);
+
+}
+
+.box8{
+    /********ROBIN********/
+    background-color: rgb(4, 85, 161);
+    color: rgb(194, 182, 156);
+
+}
+
+.box9{ 
+    /********FRANKY********/
+    background-color: rgb(110, 3, 3);
+    color: rgb(23, 154, 230);
+
+}
+
+.footer{
+    padding: 1px;
+    text-align: center;
+    color: rgb(118, 190, 134);
+    height: 4em;
+    line-height: 2em;
+    width: 100%;
+    background-color: rgb(68, 6, 70);
+    margin: 0px;
+    margin-top: 0%;
+    margin-bottom: 0%;
+}
