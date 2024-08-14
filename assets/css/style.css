@@ -55,3 +55,136 @@ nav{
     padding-top: 50px;
     padding-bottom: 50px;
 }
+
+.presentacionbox{
+    display: flex;
+    padding-top:30px;
+    padding-bottom: 30px;
+    width: 70%;
+    align-items: center;
+    background-color: #FFFF;
+}
+
+.yosoyh1{
+    font-size: 60px;
+    color: #858585;
+}
+
+.h1{
+    font-size: 60px;
+    color: #000000;
+}
+
+.presentacion{
+    display: flex;
+    font-size: 25px;
+    gap: 30px;
+}
+
+.presentacionp{
+    font-size: 20px;
+    color: #858585;
+}
+
+.presentacionp2{
+    color: #858585;
+}
+
+.sobremi{
+    background-color: #a288e3;
+    padding: 4%;
+    gap: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.sobre-mi-h3{
+    font-size: 30px;
+}
+
+.sobremih3{
+    color: #3D3D3D;
+    font-size: 20px;
+}
+
+.estudios{
+    background-color: #baf2bb;
+    padding: 4%;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    gap: 50px;
+}
+
+.estudios img{
+    width: 300px;
+}
+.agape{
+    width: 350px;
+}
+
+.experiencia{
+    background-color: #bad7f2;
+    padding: 4%;
+    gap: 40px;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.portafolio{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+    padding: 4%;
+    background-color: #f2e2ba;
+}
+
+h2{
+    font-size: 60px;
+    text-align: center;
+}
+
+h5{
+    font-size: 40px;
+}
+
+.h5{
+    font-size: 50px;
+}
+
+.box{
+    justify-content: center;
+    align-items: center;
+}
+
+.btn{
+    background-color: #bad7f2;
+    font-size: 20px;
+}
+
+.fork{
+    background-color: #8EEEE0;
+    padding: 4%;
+    background-size: cover;
+    gap: 80px;
+
+}
+
+.fork h5{
+    font-size: 35px;
+
+}
+ 
+.forkbox{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+a{
+    color: #000000;
+}
