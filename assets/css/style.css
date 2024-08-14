@@ -1,11 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100..900;1,100..900&display=swap');
 
+
 body {
     background-repeat: no-repeat;
     background-position: center;
     background-attachment: fixed;
     background-color: #F890EA;
-    font-weight: 350;
+    font-weight: 300;
     margin: auto;
 
 }
@@ -140,7 +141,7 @@ nav{
     align-items: center;
     gap: 50px;
     padding: 4%;
-    background-color: #f2e2ba;
+    background-color: #f8bbd0;
 }
 
 h2{
@@ -167,7 +168,7 @@ h5{
 }
 
 .fork{
-    background-color: #8EEEE0;
+    background-color: #e8daef;
     padding: 4%;
     background-size: cover;
     gap: 80px;
